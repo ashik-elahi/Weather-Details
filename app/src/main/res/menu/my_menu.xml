@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/set"
+        android:title="Settings">
+
+        <menu>
+            <item
+                android:id="@+id/change_bg"
+                android:title="Change Background"
+                app:showAsAction="never">
+                <menu>
+                    <item
+                        android:id="@+id/back_gr1"
+                        android:title="Background 1" />
+                    <item
+                        android:id="@+id/back_gr2"
+                        android:title="Background 2" />
+                    <item
+                        android:id="@+id/back_gr3"
+                        android:title="Background 3" />
+                    <item
+                        android:id="@+id/back_gr4"
+                        android:title="Background 4" />
+
+                </menu>
+
+
+            </item>
+
+        </menu>
+
+    </item>
+
+</menu>
