@@ -19,4 +19,4 @@ It displays some information of weather of the place entered by the user. The in
 * The version of android should be API 21:Android 5.0(Lollipop) or upper.
 * The app needs internet connection to run.
 
-## [Download this app ](https://drive.google.com/file/d/1aXXumeHsEkrfSb6zCKaCSv0dOgdr3j-z/view?usp=sharing)
+## [Click here to download the app ](https://drive.google.com/file/d/1aXXumeHsEkrfSb6zCKaCSv0dOgdr3j-z/view?usp=sharing)
