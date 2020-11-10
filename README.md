@@ -14,3 +14,9 @@ It displays some information of weather of the place entered by the user. The in
 # Additional
 * User can change the background image from settings
 * Also can see the extra information (Map , Minute forecast , Hourly forecast , Next8-day forecast etc.) about the place by clicking the "CLICK FOR MORE DETAILS" button.
+
+# Requirement to run this app
+* The version of android should be API 21:Android 5.0(Lollipop) or upper.
+* The app needs internet connection to run.
+
+## [Download this app ](https://drive.google.com/file/d/1Iwj8Mlepc85-gl-sgFWh8BEYvml90taF/view?usp=sharing)
